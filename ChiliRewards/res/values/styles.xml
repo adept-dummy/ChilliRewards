@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        
+        <!-- We will be using the toolbar so no need to show ActionBar -->
+        <!-- Set theme colors from http://www.google.com/design/spec/style/color.html#color-color-palette -->
+        
+    </style>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#CF1812</color>
+    <color name="colorPrimaryDark">#C41711</color>
+    <color name="colorAccent">#92989E</color>
+    <color name="colorBottomViews">#000000</color>
+    <color name="beaconStream">#00D87F</color>
+    <color name="white">#ffffff</color>
+    <color name="edittext_background">#bdbdbd</color>
+    <color name="lightGreyBackground">#e0e0e0</color>
+    <color name="submit_background">#38C101</color>
+    
+</resources>

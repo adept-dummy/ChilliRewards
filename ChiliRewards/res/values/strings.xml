@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChiliRewards</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="text_home_uniquecode">Enter the unique code received on your registered Email ID</string>
+    <string name="edittext_uniqueCodeHint">Unique code</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_rewards">Rewards</string>
+
+</resources>
