@@ -8,7 +8,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         
-        <!-- We will be using the toolbar so no need to show ActionBar -->
+        
         <!-- Set theme colors from http://www.google.com/design/spec/style/color.html#color-color-palette -->
         
     </style>
