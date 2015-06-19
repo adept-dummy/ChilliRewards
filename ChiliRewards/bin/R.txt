@@ -641,7 +641,7 @@ int style Base_Widget_AppCompat_Spinner 0x7f0b0077
 int style Base_Widget_AppCompat_Spinner_DropDown_ActionBar 0x7f0b0078
 int style Base_Widget_AppCompat_Toolbar 0x7f0b008f
 int style Base_Widget_AppCompat_Toolbar_Button_Navigation 0x7f0b0090
-int style MyTheme 0x7f0b00ed
+int style MyTheme 0x7f0b00ee
 int style Platform_AppCompat 0x7f0b00c9
 int style Platform_AppCompat_Dialog 0x7f0b00cb
 int style Platform_AppCompat_Light 0x7f0b00ca
@@ -712,6 +712,7 @@ int style Theme_AppCompat_Light_Dialog 0x7f0b00c2
 int style Theme_AppCompat_Light_DialogWhenLarge 0x7f0b00c0
 int style Theme_AppCompat_Light_NoActionBar 0x7f0b00be
 int style Theme_AppCompat_NoActionBar 0x7f0b00bd
+int style Theme_Splash 0x7f0b00ed
 int style ThemeOverlay_AppCompat 0x7f0b00c4
 int style ThemeOverlay_AppCompat_ActionBar 0x7f0b00c7
 int style ThemeOverlay_AppCompat_Dark 0x7f0b00c6
