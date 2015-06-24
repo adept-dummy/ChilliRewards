@@ -1896,9 +1896,6 @@ containing a value of this type.
     }
     public static final class style {
         public static final int AppBaseTheme=0x7f0b00eb;
-        /**  Set theme colors from http://www.google.com/design/spec/style/color.html#color-color-palette 
-         */
-        public static final int AppTheme=0x7f0b00ec;
         public static final int Base_TextAppearance_AppCompat=0x7f0b0098;
         public static final int Base_TextAppearance_AppCompat_Body1=0x7f0b00a3;
         public static final int Base_TextAppearance_AppCompat_Body2=0x7f0b00a2;
@@ -2043,7 +2040,8 @@ containing a value of this type.
     
          */
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0090;
-        /**  <style name="MyTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        /**  Set theme colors from http://www.google.com/design/spec/style/color.html#color-color-palette 
+ <style name="MyTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
     <item name="android:windowNoTitle">true</item>
     We will be using the toolbar so no need to show ActionBar
     <item name="android:windowActionBar">false</item>
@@ -2054,7 +2052,7 @@ containing a value of this type.
     
   </style> 
          */
-        public static final int MyTheme=0x7f0b00ee;
+        public static final int MyTheme=0x7f0b00ec;
         public static final int Platform_AppCompat=0x7f0b00c9;
         public static final int Platform_AppCompat_Dialog=0x7f0b00cb;
         public static final int Platform_AppCompat_Light=0x7f0b00ca;
